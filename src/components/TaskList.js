@@ -68,7 +68,7 @@ const TaskList = () => {
       <Row className="my-4 justify-content-center">
         <Col xs={12} md={10} lg={8}>
           <h1 className="text-center">To-Do List</h1>
-          <img src="https://res.cloudinary.com/dco8penwb/image/upload/v1718715953/Junior_Web_Application_Developer_Assignment_2__1_hgvsq7.png" alt="Shanture Logo" className="mb-3 mx-auto d-block" />
+          <img src="https://res.cloudinary.com/dco8penwb/image/upload/v1718715953/Junior_Web_Application_Developer_Assignment_2__1_hgvsq7.png" alt="Shanture Logo" className="mb-3 mx-auto w-50 d-block" />
           <Button variant="success" className="mb-3 w-100" onClick={downloadPDF}>Download PDF</Button>
           <InputGroup className="mb-3">
             <Form.Control
