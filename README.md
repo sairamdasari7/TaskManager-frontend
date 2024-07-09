@@ -3,9 +3,10 @@
 
 # Task Manager - Frontend
 
-This is the frontend for the Shanture Task Manager application. It provides a user interface to manage tasks, including adding new tasks, marking tasks as completed, and deleting tasks. The frontend is built using React.js, with Bootstrap for styling.
+This is the frontend for the Task Manager application. It provides a user interface to manage tasks, including adding new tasks, marking tasks as completed, and deleting tasks. The frontend is built using React.js, with Bootstrap for styling.
 
 # Task Manager - Backend - Git Repository URL
+Run backend to use all the features in the backend.
 https://github.com/sairamdasari7/TaskManager-backend.git
 
 ## Features
@@ -23,12 +24,6 @@ https://github.com/sairamdasari7/TaskManager-backend.git
 - npm (Node Package Manager)
 
 ## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/shanture-taskmanager.git
-cd shanture-taskmanager/frontend
 
 ## Install Dependencies
 - bash
