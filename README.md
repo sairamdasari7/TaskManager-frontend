@@ -1,9 +1,12 @@
 # Website
-- 
+- https://addtaskmanager.netlify.app
 
-# Shanture Task Manager - Frontend
+# Task Manager - Frontend
 
 This is the frontend for the Shanture Task Manager application. It provides a user interface to manage tasks, including adding new tasks, marking tasks as completed, and deleting tasks. The frontend is built using React.js, with Bootstrap for styling.
+
+# Task Manager - Backend - Git Repository URL
+https://github.com/sairamdasari7/TaskManager-backend.git
 
 ## Features
 
